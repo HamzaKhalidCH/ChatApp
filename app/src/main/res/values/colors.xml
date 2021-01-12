@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#064D92</color>
+    <color name="colorPrimaryDark">#012F55</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="SlateGray">#708090</color>
+    <color name="LightSlateGray">#778899</color>
+    <color name="LightGray">#d3d3d3</color>
+    <color name="Snow4">#8b8989</color>
+    <color name="Snow3">#cdc9c9</color>
+</resources>
